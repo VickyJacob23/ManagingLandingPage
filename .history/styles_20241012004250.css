@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image:url('src/images/bg-tablet-pattern.svg');
+    background-size: 800px;
+    background-position: 90% -25%;
+    background-repeat: no-repeat;
+}
